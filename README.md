@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mikicvi, 2nd year CS student!
-- 👀 I’m interested in full stack software development and cloud computing. 
-- 🌱 I’m currently learning PHP, C, C#, Python, SQL, Java, Bash scripting(awk, tr, sed), HTML, CSS and JS. 
-- 💞️ I’m looking to collaborate on any kind of begginer projects
-- 📫 You can reach me only via GitHub for the moment. :)
+- 👋 Hi, I’m @mikicvi, 3rd year CS student!
+- 👀 I’m interested in full-stack web development and cloud computing. 
+- 🌱 I’m currently learning Typescript, NodeJS, React, PHP, C, C#, Python, SQL, Java, Bash scripting(awk, tr, sed), HTML, CSS.
+- 📫 You can reach me via GitHub for the moment. :)
