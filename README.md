@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @mikicvi, 3rd year CS student!
+- 👋 Hi, I’m @mikicvi, 4th year CS student!
 - 👀 I’m interested in full-stack web development and cloud computing. 
 - 🌱 I’m currently learning Typescript, NodeJS, React, PHP, C, C#, Python, SQL, Java, Bash scripting(awk, tr, sed), HTML, CSS.
